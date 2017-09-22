@@ -1,0 +1,52 @@
+.body {
+  background-color: #edebea
+}
+
+.header {
+  background-image: url(../images/typography-7.jpg);
+  width: 100%;
+  height: 50%;
+  padding: 200px;
+}
+
+#head {
+  text-align: center;
+  font-size: 100px;
+  color: #ffffff;
+  font-weight: bold;
+  font-style: normal;
+}
+
+.leftcol {
+  background-color: #ff7f00;
+  float: left;
+  margin-top: 40px;
+  padding: 0px 10px 0px 30px;
+  width: 380px;
+  margin-right: 50px;
+}
+
+#Ping {
+  color: #ffffff;
+  text-align: left;
+}
+
+#me {
+  color: white;
+}
+
+#url {
+  color: white;
+}
+
+#jv {
+  color: white;
+}
+
+.Play {
+
+  width: 380px;
+  margin-top: 80px;
+  padding: 0px 0px 0px 5px;
+  padding-left: 20px;
+}
