@@ -25,6 +25,7 @@
   padding: 0px 10px 0px 30px;
   width: 380px;
   margin-right: 50px;
+  height: 100%;
 }
 
 #Ping {
@@ -37,7 +38,7 @@
 }
 
 #url {
-  color: white;
+  color: #ffffff;
 }
 
 #jv {
@@ -54,4 +55,10 @@
 
 #let {
   color: #ff7f00
+}
+
+.form-group {
+  margin-left: 0px;
+  margin-top: 0px;
+  padding-top: 0px;
 }
